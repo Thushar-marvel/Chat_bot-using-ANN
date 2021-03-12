@@ -30,6 +30,13 @@ if word present in the query then matrix element value will be 1 else 0 and so o
 
 # ANN model
 With the help of tensorflow as backened ANN model is built with 2 hidden FC layers and final output softmax layer.Used Adam optimizer.Trained the model for 1000 epochs and saved it as tflearn model for future use.Achieved best accuracy of 97.3%
+
+![image](https://user-images.githubusercontent.com/69953585/110901721-c14f5900-832a-11eb-81c7-62ab2b9809fb.png)
+
+
+
+
+
    
    
 Further improvement can be done by training it with more set of questions and answers and built GUI to run this program.   
