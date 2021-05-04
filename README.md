@@ -39,4 +39,4 @@ With the help of tensorflow as backened ANN model is built with 2 hidden FC laye
 
    
    
-Further improvement can be done by training it with more set of questions and answers and built GUI to run this program.   
+Further improvement can be done by training it with more set of questions and answers and implement in GUI.   
